@@ -124,7 +124,6 @@ atuação para full stack com Angular.
     style="padding-right: 10px;"
     src="https://github-readme-stats-five-zeta-72.vercel.app/api?username=sara-mageste&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
-
   <img 
     align="left"
     alt="GitHub Stats"
