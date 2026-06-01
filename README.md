@@ -120,7 +120,6 @@ atuação para full stack com Angular.
     align="left"
     alt="GitHub Stats"
     height="200"
-    width="49%"
     style="padding-right: 10px;"
     src="https://github-readme-stats-five-zeta-72.vercel.app/api?username=sara-mageste&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
@@ -128,7 +127,6 @@ atuação para full stack com Angular.
     align="left"
     alt="GitHub Stats"
     height="200"
-    width="49%" 
     src="https://github-readme-stats-five-zeta-72.vercel.app/api/top-langs/?username=sara-mageste&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
 </p>
