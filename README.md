@@ -115,7 +115,7 @@ atuação para full stack com Angular.
 
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -127,7 +127,7 @@ atuação para full stack com Angular.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
+    height="200" 
     src="https://github-readme-stats-five-zeta-72.vercel.app/api/top-langs/?username=sara-mageste&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
-</p>
+</div>
