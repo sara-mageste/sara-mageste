@@ -1,13 +1,13 @@
 # 👩🏻‍💻 Sara Mageste
 
-**`Desenvolvedora Back-end`**
+**Desenvolvedora Back-end | Java | Spring Boot | APIs REST | Angular**
 
-JAVA | SPRING BOOT | REST API| ANGULAR 
+Desenvolvedora de software com mais de 4 anos de experiência em desenvolvimento de aplicações corporativas, incluindo atuação na IBM. Experiência em Java, Spring Boot, APIs REST e desenvolvimento de soluções escaláveis, com foco em boas práticas de engenharia de software, automação e padronização técnica.
 
-Desenvolvedora de software com experiência em Java, Spring Boot e APIs RESTful, atuando no 
-desenvolvimento de soluções escaláveis e bem estruturadas. Vivência em ambiente corporativo na IBM, 
-com foco em boas práticas de clean code, automação e padronização técnica. Atualmente ampliando 
-atuação para full stack com Angular. 
+Atualmente desenvolvendo aplicações full stack com Angular e aprofundando conhecimentos em arquitetura de aplicações, testes automatizados, Docker, computação em nuvem e microsserviços.
+
+📍 Brasil  
+💼 Aberta a oportunidades em desenvolvimento Java Back-end e Full Stack
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sara-mageste-4732251a7/">
