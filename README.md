@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Sara Mageste
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-end`**
 
-JAVA & SPRING BOOT | REST API| ANGULAR 
+JAVA | SPRING BOOT | REST API| ANGULAR 
 
 Desenvolvedora de software com experiência em Java, Spring Boot e APIs RESTful, atuando no 
 desenvolvimento de soluções escaláveis e bem estruturadas. Vivência em ambiente corporativo na IBM, 
