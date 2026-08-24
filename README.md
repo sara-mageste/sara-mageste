@@ -2,11 +2,11 @@
 
 **Desenvolvedora Back-end | Java | Spring Boot | APIs REST | Angular**
 
-Desenvolvedora de software com mais de 4 anos de experiência em desenvolvimento de aplicações corporativas, incluindo atuação na IBM. Experiência em Java, Spring Boot, APIs REST e desenvolvimento de soluções escaláveis, com foco em boas práticas de engenharia de software, automação e padronização técnica.
+Desenvolvedora Back-end com mais de 4 anos de experiência em aplicações corporativas, incluindo atuação na IBM em projetos para clientes do setor bancário como Banco do Brasil e Bradesco. Trabalho com Java, Spring Boot e APIs REST, com foco em arquitetura em camadas, boas práticas de engenharia e soluções escaláveis e resilientes.
 
-Atualmente desenvolvendo aplicações full stack com Angular e aprofundando conhecimentos em arquitetura de aplicações, testes automatizados, Docker, computação em nuvem e microsserviços.
+Tenho vivência prática com AWS, GCP, Docker e Kubernetes em atividades de deploy e otimização de infraestrutura, além de testes automatizados (JUnit, Mockito) e desenvolvimento fullstack com Angular.
 
-📍 Brasil  
+📍 Brasil
 💼 Aberta a oportunidades em desenvolvimento Java Back-end e Full Stack
 
 <p align="left">
